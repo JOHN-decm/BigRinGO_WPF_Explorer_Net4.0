@@ -1,0 +1,14 @@
+D:\RT_Project\BigRinGO_Explorer_Net4.0\BigRinGO_WPF_Explorer\bin\Debug\BigRinGO_WPF_Explorer.exe.config
+D:\RT_Project\BigRinGO_Explorer_Net4.0\BigRinGO_WPF_Explorer\bin\Debug\BigRinGO_WPF_Explorer.exe
+D:\RT_Project\BigRinGO_Explorer_Net4.0\BigRinGO_WPF_Explorer\bin\Debug\BigRinGO_WPF_Explorer.pdb
+D:\RT_Project\BigRinGO_Explorer_Net4.0\BigRinGO_WPF_Explorer\obj\Debug\Interop.Shell32.dll
+D:\RT_Project\BigRinGO_Explorer_Net4.0\BigRinGO_WPF_Explorer\obj\Debug\BigRinGO_WPF_Explorer.csproj.ResolveComReference.cache
+D:\RT_Project\BigRinGO_Explorer_Net4.0\BigRinGO_WPF_Explorer\obj\Debug\BigRinGO_WPF_Explorer.g.resources
+D:\RT_Project\BigRinGO_Explorer_Net4.0\BigRinGO_WPF_Explorer\obj\Debug\BigRinGO_WPF_Explorer.Properties.Resources.resources
+D:\RT_Project\BigRinGO_Explorer_Net4.0\BigRinGO_WPF_Explorer\obj\Debug\BigRinGO_WPF_Explorer.csproj.GenerateResource.cache
+D:\RT_Project\BigRinGO_Explorer_Net4.0\BigRinGO_WPF_Explorer\obj\Debug\BigRinGO_WPF_Explorer.csproj.CoreCompileInputs.cache
+D:\RT_Project\BigRinGO_Explorer_Net4.0\BigRinGO_WPF_Explorer\obj\Debug\BigRinGO_WPF_Explorer.csproj.CopyComplete
+D:\RT_Project\BigRinGO_Explorer_Net4.0\BigRinGO_WPF_Explorer\obj\Debug\BigRinGO_WPF_Explorer.exe
+D:\RT_Project\BigRinGO_Explorer_Net4.0\BigRinGO_WPF_Explorer\obj\Debug\BigRinGO_WPF_Explorer.pdb
+D:\RT_Project\BigRinGO_Explorer_Net4.0\BigRinGO_WPF_Explorer\obj\Debug\BigRinGO_WPF_Explorer.csproj.AssemblyReference.cache
+D:\RT_Project\BigRinGO_Explorer_Net4.0\BigRinGO_WPF_Explorer\obj\Debug\BigRinGO_WPF_Explorer.RinGO_Form1.resources
